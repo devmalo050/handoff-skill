@@ -1,0 +1,11 @@
+{
+  "name": "handoff-skill",
+  "owner": { "name": "malo" },
+  "plugins": [
+    {
+      "name": "handoff",
+      "source": "./plugins/handoff",
+      "description": "Claude 세션 인계 — HANDOFF.md로 압축/재개"
+    }
+  ]
+}
