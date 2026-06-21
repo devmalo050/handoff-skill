@@ -1,0 +1,9 @@
+{
+  "name": "handoff",
+  "version": "1.0.0",
+  "description": "긴 작업을 다음 세션이 이어받게 HANDOFF.md로 압축/재개",
+  "author": { "name": "malo" },
+  "repository": "https://github.com/devmalo050/handoff-skill",
+  "license": "MIT",
+  "keywords": ["handoff", "session", "context", "resume"]
+}
